@@ -1,4 +1,4 @@
-body
+body {
   font-size: 14px;
 }
 
@@ -22,7 +22,7 @@ h1 {
 
 .example, h3 {
   padding-top: 30px;
-  text-align center
+  text-align center;
 }
 
 h3 {
@@ -37,6 +37,9 @@ h3 {
 }
 
 /*** Checkpoint revision ***/
-  .element_2 {
+.element_purple {
     background-color: purple;
+    height: 100px;
+    margin 10px 0;
+    width: 100%;
   }
